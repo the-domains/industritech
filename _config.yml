@@ -1,0 +1,28 @@
+name: Industritech
+favicon: null
+layout_spectrum: 0.8622920152265579
+typography_spectrum: 0.11338746035471559
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3488706024363637
+  lightness: 0.007539230398833752
+  saturation: 0.0032750654499977827
+  rhythmicContrast: 0.8769055360462517
+purpose: []
